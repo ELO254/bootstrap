@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eaf0b623-dac9-4f5e-8f9f-53b4877a6f1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/img/android.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tr1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tr2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tr3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/IF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/OOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/connect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/createtable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/data structure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/exempton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/latah.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/myconnect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/myconnection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/myselect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/mytable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/trial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/trial22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first python/vote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/data_structure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/data_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/exeption.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/if statament.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/link_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/my_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/opperaters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/vote.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elvis/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elvis/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elvis/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/../elvis/forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elvis/pic.html" beforeDir="false" afterPath="$PROJECT_DIR$/../elvis/pic.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L5KpFqcamNijx7HVvD24VqYbNY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/emobilis/Desktop/pythonProject3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaf0b623-dac9-4f5e-8f9f-53b4877a6f1c" name="Changes" comment="" />
+      <created>1675155685329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675155685329</updated>
+      <workItem from="1675155689028" duration="3452000" />
+      <workItem from="1675159930138" duration="227000" />
+      <workItem from="1675160210953" duration="445000" />
+      <workItem from="1675238512256" duration="7033000" />
+      <workItem from="1675325996985" duration="1493000" />
+      <workItem from="1676450567194" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
